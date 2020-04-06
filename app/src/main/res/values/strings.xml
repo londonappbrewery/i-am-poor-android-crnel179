@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">I Am Poor</string>
+    <string name="Toptext">I am Rich NOT poor!</string>
+    <string name="Bottomtext">NEVER poor!</string>
+    <string name="Image">coal</string>
 </resources>
